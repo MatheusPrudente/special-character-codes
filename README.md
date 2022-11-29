@@ -1,6 +1,15 @@
-# Códigos de caracteres especiais
+# Tabela de caracteres UTF-8
 
-## HTML
+<div>
+    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/special-character-codes"/>
+    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/special-character-codes"/>
+    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/special-character-codes"/>
+    <img src="https://img.shields.io/github/issues/MatheusPrudente/special-character-codes"/>
+</div>
+
+Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus respectivos caráteres
+
+## HTML 
 
 | Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
@@ -29,6 +38,9 @@
 |     Ð     | ```&ETH;```    |           |     Û     | ``` &Ucirc;``` |
 |     ð     | ```&eth;```    |           |     û     | ``` &ucirc;``` |
 
+### Exemplos de utilização
+
+
 ## Javascript
 
 | Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
@@ -50,4 +62,8 @@
 |     È     | ```\u00c8```   |           |     Ò     | ``` \u00d2```  |           |
 |     Ê     | ```\u00ca```   |           |     Ô     | ``` \u00d4```  |           |
 |     Ë     | ```\u00cb```   |           |     Õ     | ``` \u00d5```  |           |
+
+### Exemplos de utilização
+
+
 
