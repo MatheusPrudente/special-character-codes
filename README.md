@@ -9,7 +9,7 @@
 
 Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus respectivos caráteres
 
-## HTML 
+## HTML - acentos
 
 | Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
@@ -39,6 +39,16 @@ Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus
 |     ð     | ```&eth;```    |           |     û     | ``` &ucirc;``` |
 
 
+## HTML - simbolos
+
+| Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
+| :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
+| &nbsp;    | ```&nbsp;```   |           |  &copy;   | ```&copy;```   |           |    &reg;  | ```&reg;```    |
+|   &lt;    | ```&lt;```     |           |    &gt;   | ```&gt;```     |           |     &amp; | ```&amp;```    |
+| &apos;    | ```&apos;```   |           |    &quot; | ```&quot;```   |           |    &cent; | ```&cent;```   |
+| &pound;   | ```&pound;```  |           |    &yen;  | ```&yen;```    |           |    &euro; | ```&euro;```   |
+| &trade;   | ```&trade;```  |           |    &larr; | ```&larr;```   |           |     &uarr;    | ``` &uarr;```|
+
 ## Javascript
 
 | Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
@@ -60,8 +70,3 @@ Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus
 |     È     | ```\u00c8```   |           |     Ò     | ``` \u00d2```  |           |
 |     Ê     | ```\u00ca```   |           |     Ô     | ``` \u00d4```  |           |
 |     Ë     | ```\u00cb```   |           |     Õ     | ``` \u00d5```  |           |
-
-### Exemplos de utilização
-
-
-
