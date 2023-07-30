@@ -12,30 +12,30 @@
 
 | Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
-| &Aacute;  | ```&Aacute;``` |           |     Í     | ``` &Iacute;```|           |     Ù     | ``` &Ugrave;```|
-| &aacute;  | ```&aacute;``` |           |     í     | ``` &iacute;```|           |     ù     | ``` &ugrave;```|
-| &Acirc;   | ```&Acirc;```  |           |     Î     |  ``` &Icirc;```|           |     Ü     | ``` &Uuml;```|
-| &acirc;   | ```&acirc;```  |           |     î     |  ``` &icirc;```|           |     ü     | ``` &uuml;```|
-| &Agrave;  | ```&Agrave;``` |           |     Ì     | ``` &Igrave;```|           |     Ç     | ``` &Ccedil;```|
-| &agrave;  | ```&agrave;``` |           |     ì     | ``` &igrave;```|           |     ç     | ``` &ccedil;```|
-| &Aring;   | ```&Aring;```  |           |     Ï     | ``` &Iuml;```  |           |     Ñ     | ``` &Ntilde;```|
-| &aring;   | ```&aring;```  |           |     ï     | ``` &iuml;```  |           |     ñ     | ``` &ntilde;```|
-| &Atilde;  | ```&Atilde;``` |           |     Ó     | ``` &Oacute;```|           |     <     | ``` &lt;```|
-| &atilde;  | ```&atilde;``` |           |     ó     | ``` &oacute;```|           |     >     | ``` &gt;```|
-| &Auml;    | ```&Auml;```   |           |     Ô     | ``` &Ocirc;``` |           |     &     | ``` &amp;```|
-| &auml;    | ```&auml;```   |           |     ô     | ``` &ocirc;``` |           |     "     | ``` &quot;```|
-| &AElig;   | ```&AElig;```  |           |     Ò     | ``` &Ograve;```|           |     ®     | ``` &reg;```|
-| &aelig;   | ```&aelig;```  |           |     ò     | ``` &ograve;```|           |     ©     | ``` &copy;```|
-| &Eacute;  | ```&Eacute;``` |           |     Ø     | ``` &Oslash;```|           |     Ý     | ``` &Yacute;```|
-| &Eacute;  | ```&Eacute;``` |           |     ø     | ``` &oslash;```|           |     ý     | ``` &yacute;```|
-| &Ecirc;   | ```&Ecirc;```  |           |     Õ     | ``` &Otilde;```|           |     Þ     | ``` &THORN;```|
-| &ecirc;   | ```&ecirc;```  |           |     õ     | ``` &otilde;```|           |     þ     | ``` &thorn;```|
-| &Egrave;  | ```&Egrave;``` |           |     Ö     | ``` &Ouml;```  |           |     ß     | ``` &szlig;```|
-| &egrave;  | ```&egrave;``` |           |     ö     | ``` &ouml;```  |
-| &Euml;    | ```&Euml;```   |           |     Ú     | ``` &Uacute;```|
-| &euml;    | ```&euml;```   |           |     ú     | ``` &uacute;```|
-| &ETH;     | ```&ETH;```    |           |     Û     | ``` &Ucirc;``` |
-| &eth;     | ```&eth;```    |           |     û     | ``` &ucirc;``` |
+| &Aacute;  | ```&Aacute;``` |           | &Iacute;  | ``` &Iacute;```|           | &Ugrave;  | ``` &Ugrave;```|
+| &aacute;  | ```&aacute;``` |           | &iacute;  | ``` &iacute;```|           | &ugrave;  | ``` &ugrave;```|
+| &Acirc;   | ```&Acirc;```  |           | &Icirc;   |  ``` &Icirc;```|           | &Uuml;    | ``` &Uuml;```|
+| &acirc;   | ```&acirc;```  |           | &icirc;   |  ``` &icirc;```|           | &uuml;     | ``` &uuml;```|
+| &Agrave;  | ```&Agrave;``` |           | &Igrave;  | ``` &Igrave;```|           |     Ç     | ``` &Ccedil;```|
+| &agrave;  | ```&agrave;``` |           | &igrave;  | ``` &igrave;```|           |     ç     | ``` &ccedil;```|
+| &Aring;   | ```&Aring;```  |           | &Iuml;    | ``` &Iuml;```  |           |     Ñ     | ``` &Ntilde;```|
+| &aring;   | ```&aring;```  |           | &iuml;    | ``` &iuml;```  |           |     ñ     | ``` &ntilde;```|
+| &Atilde;  | ```&Atilde;``` |           | &Oacute;  | ``` &Oacute;```|           |     <     | ``` &lt;```|
+| &atilde;  | ```&atilde;``` |           | &oacute;  | ``` &oacute;```|           |     >     | ``` &gt;```|
+| &Auml;    | ```&Auml;```   |           | &Ocirc;   | ``` &Ocirc;``` |           |     &     | ``` &amp;```|
+| &auml;    | ```&auml;```   |           | &ocirc;   | ``` &ocirc;``` |           |     "     | ``` &quot;```|
+| &AElig;   | ```&AElig;```  |           | &Ograve;  | ``` &Ograve;```|           |     ®     | ``` &reg;```|
+| &aelig;   | ```&aelig;```  |           | &ograve;  | ``` &ograve;```|           |     ©     | ``` &copy;```|
+| &Eacute;  | ```&Eacute;``` |           | &Oslash;  | ``` &Oslash;```|           |     Ý     | ``` &Yacute;```|
+| &Eacute;  | ```&Eacute;``` |           | &oslash;  | ``` &oslash;```|           |     ý     | ``` &yacute;```|
+| &Ecirc;   | ```&Ecirc;```  |           | &Otilde;  | ``` &Otilde;```|           |     Þ     | ``` &THORN;```|
+| &ecirc;   | ```&ecirc;```  |           | &otilde;  | ``` &otilde;```|           |     þ     | ``` &thorn;```|
+| &Egrave;  | ```&Egrave;``` |           | &Ouml;    | ``` &Ouml;```  |           |     ß     | ``` &szlig;```|
+| &egrave;  | ```&egrave;``` |           | &ouml;    | ``` &ouml;```  |
+| &Euml;    | ```&Euml;```   |           | &Uacute;  | ``` &Uacute;```|
+| &euml;    | ```&euml;```   |           | &uacute;  | ``` &uacute;```|
+| &ETH;     | ```&ETH;```    |           | &Ucirc;   | ``` &Ucirc;``` |
+| &eth;     | ```&eth;```    |           | &ucirc;   | ``` &ucirc;``` |
 
 
 ## HTML - simbolos
