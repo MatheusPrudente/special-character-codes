@@ -14,23 +14,23 @@
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 | &Aacute;  | ```&Aacute;``` |           | &Iacute;  | ``` &Iacute;```|           | &Ugrave;  | ``` &Ugrave;```|
 | &aacute;  | ```&aacute;``` |           | &iacute;  | ``` &iacute;```|           | &ugrave;  | ``` &ugrave;```|
-| &Acirc;   | ```&Acirc;```  |           | &Icirc;   |  ``` &Icirc;```|           | &Uuml;    | ``` &Uuml;```|
-| &acirc;   | ```&acirc;```  |           | &icirc;   |  ``` &icirc;```|           | &uuml;     | ``` &uuml;```|
+| &Acirc;   | ```&Acirc;```  |           | &Icirc;   |  ``` &Icirc;```|           | &Uuml;    | ``` &Uuml;```  |
+| &acirc;   | ```&acirc;```  |           | &icirc;   |  ``` &icirc;```|           | &uuml;    | ``` &uuml;```  |
 | &Agrave;  | ```&Agrave;``` |           | &Igrave;  | ``` &Igrave;```|           |     Ç     | ``` &Ccedil;```|
 | &agrave;  | ```&agrave;``` |           | &igrave;  | ``` &igrave;```|           |     ç     | ``` &ccedil;```|
 | &Aring;   | ```&Aring;```  |           | &Iuml;    | ``` &Iuml;```  |           |     Ñ     | ``` &Ntilde;```|
 | &aring;   | ```&aring;```  |           | &iuml;    | ``` &iuml;```  |           |     ñ     | ``` &ntilde;```|
-| &Atilde;  | ```&Atilde;``` |           | &Oacute;  | ``` &Oacute;```|           |     <     | ``` &lt;```|
-| &atilde;  | ```&atilde;``` |           | &oacute;  | ``` &oacute;```|           |     >     | ``` &gt;```|
-| &Auml;    | ```&Auml;```   |           | &Ocirc;   | ``` &Ocirc;``` |           |     &     | ``` &amp;```|
-| &auml;    | ```&auml;```   |           | &ocirc;   | ``` &ocirc;``` |           |     "     | ``` &quot;```|
-| &AElig;   | ```&AElig;```  |           | &Ograve;  | ``` &Ograve;```|           |     ®     | ``` &reg;```|
-| &aelig;   | ```&aelig;```  |           | &ograve;  | ``` &ograve;```|           |     ©     | ``` &copy;```|
-| &Eacute;  | ```&Eacute;``` |           | &Oslash;  | ``` &Oslash;```|           |     Ý     | ``` &Yacute;```|
-| &Eacute;  | ```&Eacute;``` |           | &oslash;  | ``` &oslash;```|           |     ý     | ``` &yacute;```|
-| &Ecirc;   | ```&Ecirc;```  |           | &Otilde;  | ``` &Otilde;```|           |     Þ     | ``` &THORN;```|
-| &ecirc;   | ```&ecirc;```  |           | &otilde;  | ``` &otilde;```|           |     þ     | ``` &thorn;```|
-| &Egrave;  | ```&Egrave;``` |           | &Ouml;    | ``` &Ouml;```  |           |     ß     | ``` &szlig;```|
+| &Atilde;  | ```&Atilde;``` |           | &Oacute;  | ``` &Oacute;```|           |     Ý     | ``` &Yacute;```|
+| &atilde;  | ```&atilde;``` |           | &oacute;  | ``` &oacute;```|           |     ý     | ``` &yacute;```|
+| &Auml;    | ```&Auml;```   |           | &Ocirc;   | ``` &Ocirc;``` |           |     Þ     | ``` &THORN;``` |
+| &auml;    | ```&auml;```   |           | &ocirc;   | ``` &ocirc;``` |           |     þ     | ``` &thorn;``` |
+| &AElig;   | ```&AElig;```  |           | &Ograve;  | ``` &Ograve;```|           |     ß     | ``` &szlig;``` |
+| &aelig;   | ```&aelig;```  |           | &ograve;  | ``` &ograve;```|
+| &Eacute;  | ```&Eacute;``` |           | &Oslash;  | ``` &Oslash;```|
+| &Eacute;  | ```&Eacute;``` |           | &oslash;  | ``` &oslash;```|
+| &Ecirc;   | ```&Ecirc;```  |           | &Otilde;  | ``` &Otilde;```|
+| &ecirc;   | ```&ecirc;```  |           | &otilde;  | ``` &otilde;```|
+| &Egrave;  | ```&Egrave;``` |           | &Ouml;    | ``` &Ouml;```  |
 | &egrave;  | ```&egrave;``` |           | &ouml;    | ``` &ouml;```  |
 | &Euml;    | ```&Euml;```   |           | &Uacute;  | ``` &Uacute;```|
 | &euml;    | ```&euml;```   |           | &uacute;  | ``` &uacute;```|
@@ -42,11 +42,13 @@
 
 | Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
-| &nbsp;    | ```&nbsp;```   |           |  &copy;   | ```&copy;```   |           |    &reg;  | ```&reg;```    |
-|   &lt;    | ```&lt;```     |           |    &gt;   | ```&gt;```     |           |     &amp; | ```&amp;```    |
-| &apos;    | ```&apos;```   |           |    &quot; | ```&quot;```   |           |    &cent; | ```&cent;```   |
-| &pound;   | ```&pound;```  |           |    &yen;  | ```&yen;```    |           |    &euro; | ```&euro;```   |
-| &trade;   | ```&trade;```  |           |    &larr; | ```&larr;```   |           |     &uarr;    | ``` &uarr;```|
+| &nbsp;    | ```&nbsp;```   |           |  &copy;   | ```&copy;```   |           |  &reg;    | ```&reg;```    |
+| &lt;      | ```&lt;```     |           |  &gt;     | ```&gt;```     |           |  &amp;    | ```&amp;```    |
+| &apos;    | ```&apos;```   |           |  &quot;   | ```&quot;```   |           |  &cent;   | ```&cent;```   |
+| &pound;   | ```&pound;```  |           |  &yen;    | ```&yen;```    |           |  &euro;   | ```&euro;```   |
+| &trade;   | ```&trade;```  |           |  &larr;   | ```&larr;```   |           |  &uarr;   | ```&uarr;```   |
+| &rarr;    | ```&rarr;```   |           |  &darr;   | ```&darr;```   |           |  &uarr;   | ```&spades;``` |
+| &clubs;   | ```&clubs;```  |           |  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;```  |
 
 ## Javascript
 
