@@ -51,30 +51,26 @@
 | &clubs;   | ```&clubs;```  |           |  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;``` |
 | &spades;  |  ```&spades;```|
 
-## HTML - operadores matemáticos e lógicos
+## HTML - letras gregas
 
 | Caractere   | Código       |           | Caractere | Código         |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
-| &ne;      | ```&ne;```     |           |  &asymp;  | ```&asymp;```  |           |  &cong;   | ```&cong;```   |
-| &prop;    | ```&prop;```   |           |  &equiv;  | ```&equiv;```  |           |  &gt;     | ```&gt;```     |
-| &lt;      | ```&lt;```     |           |  &le;     | ```&le;```     |           |  &ge;     | ```&ge;```     |
-| &plusmn;  | ```&plusmn;``` |           |  &minus;  | ```&minus;```  |           |  &times;  | ```&times;```  |
-| &divide;  | ```&divide;``` |           |  &lowast; | ```&lowast;``` |           |  &frasl;  | ```&frasl;```  |
-| &permil;  | ```&permil;``` |           |  &int;    | ```&int;```    |           |  &sum;    | ```&sum;```    |
-| &prod;    | ```&prod;```   |           |  &micro;  | ```&micro;```  |           |  &radic;  | ```&radic;```  |
-| &infin;   | ```&infin;```  |           |  &ang;    | ```&ang;```    |           |  &perp;   | ```&perp;```   |
-| &prime;   | ```&prime;```  |           |  &Prime;  | ```&Prime;```  |           |  &deg;    | ```&deg;```    |
-| &there4;  | ```&there4;``` |           |  &sdot;   | ```&sdot;```   |           |  &middot; | ```&middot;``` |
-| &part;    | ```&part;```   |           |  &image;  | ```&image;```  |           |  &alefsym;| ```&alefsym;```|
-| &real;    | ```&real;```   |           |  &nabla;  | ```&nabla;```  |           |  &oplus;  | ```&oplus;```  |
-| &otimes;  | ```&otimes;``` |           |  &otimes; | ```&otimes;``` |           |  &Oslash; | ```&Oslash;``` |
-| &isin;    | ```&isin;```   |           |  &notin;  | ```&notin;```  |           |  &cap;    | ```&cap;```    |
-| &cup;     | ```&cup;```    |           |  &sup;    | ```&sup;```    |           |  &sup;    | ```&sup;```    |
-| &sube;    | ```&sube;```   |           |  &supe;   | ```&supe;```   |           |  &exist;  | ```&exist;```  |
-| &forall;  | ```&forall;``` |           |  &empty;  | ```&empty;```  |           |  &not;    | ```&not;```    |
-| &and;     | ```&and;```    |           |  &or;     | ```&or;```     |           |  &loz;    | ```&loz;```    |
-| &crarr;   | ```&crarr;```  |           |  &lceil;  | ```&lceil;```  |           |  &rceil;  | ```&rceil;```  |
-| &lfloor;  | ```&lfloor;``` |
+| &ne;      | ```&alpha;```  |           |  &Alpha;  | ```&Alpha;```  |           |  &beta;   | ```&beta;```   |
+| &Beta;    | ```&Beta;```   |           |  &gamma;  | ```&gamma;```  |           |  &Gamma;  | ```&Gamma;```  |
+| &delta;   | ```&delta;```  |           |  &Delta;  | ```&Delta;```  |           | &epsilon; | ```&epsilon;```|
+| &Epsilon; | ```&Epsilon;```|           |  &zeta;   | ```&zeta;```   |           | &Zeta;    | ```&Zeta;```   |
+| &eta;     | ```&eta;```    |           |  &Eta;    | ```&Eta;```    |           | &theta;   | ```&theta;```  |
+| &Theta;   | ```&Theta;```  |           |  &iota;   | ```&iota;```   |           | &Iota;    | ```&Iota;```   |
+| &kappa;   | ```&kappa;```  |           |  &Kappa;  | ```&Kappa;```  |           | &mu;      | ```&mu;```     |
+| &Mu;      | ```&Mu;```     |           |  &nu;     | ```&nu;```     |           | &Nu;      | ```&Nu;```     |
+| &xi;      | ```&xi;```     |           |  &Xi;     | ```&Xi;```     |           | &omicron; | ```&omicron;```|
+| &pi;      | ```&pi;```     |           |  &Pi;     | ```&Pi;```     |           | &rho;     | ```&rho;```    |
+| &Rho;     | ```&Rho;```    |           |  &Sigma;  | ```&Sigma;```  |           | &sigmaf;  | ```&sigmaf;``` |
+| &piv;     | ```&piv;```    |           |  &tau;    | ```&tau;```    |           | &Tau;     | ```&Tau;```    |
+| &upsilon; | ```&upsilon;```|           |  &Upsilon;| ```&Upsilon;```|           | &phi;     | ```&phi;```    |
+| &chi;     | ```&chi;```    |           |  &Chi;    | ```&Chi;```    |           | &psi;     | ```&psi;```    |
+| &Psi;     | ```&Psi;```    |           |  &omega;  | ```&omega;```  |           | &Omega;   | ```&Omega;```  |
+| &thetasym;|```&thetasym;```|           |  &upsih;  | ```&upsih;```  |
 
 ## Javascript - acentos
 
