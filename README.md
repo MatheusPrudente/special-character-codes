@@ -63,6 +63,15 @@
 | &permil;      | ```&permil;```   |           |  &int;   | ```&int;```   |           |  &sum;    | ```&sum;```    |
 | &prod;      | ```&prod;```   |           |  &micro;   | ```&micro;```   |           |  &radic;    | ```&radic;```    |
 | &infin;      | ```&infin;```   |           |  &ang;   | ```&ang;```   |           |  &perp;    | ```&perp;```    |
+| &prime;      | ```&prime;```   |           |  &Prime;   | ```&Prime;```   |           |  &deg;    | ```&deg;```    |
+| &there4;      | ```&there4;```   |           |  &sdot;   | ```&sdot;```   |           |  &middot;    | ```&middot;```    |
+| &part;      | ```&part;```   |           |  &image;   | ```&image;```   |           |  &alefsym;    | ```&alefsym;```    |
+| &real;      | ```&real;```   |           |  &nabla;   | ```&nabla;```   |           |  &oplus;    | ```&oplus;```    |
+| &otimes;      | ```&otimes;```   |           |  &otimes;   | ```&otimes;```   |           |  &Oslash;    | ```&Oslash;```    |
+| &isin;      | ```&isin;```   |           |  &notin;   | ```&notin;```   |           |  &cap;    | ```&cap;```    |
+| &cup;      | ```&cup;```   |           |  &sup;   | ```&sup;```   |           |  &sup;    | ```&sup;```    |
+| &sube;      | ```&sube;```   |           |  &supe;   | ```&supe;```   |           |  &exist;    | ```&exist;```    |
+| &forall;      | ```&forall;```   |           |  &empty;   | ```&empty;```   |           |  &not;    | ```&not;```    |
 
 ## Javascript - acentos
 
