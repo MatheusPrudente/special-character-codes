@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/github/issues/MatheusPrudente/special-character-codes"/>
 </div>
 
-> Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus respectivos caráteres
+> Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus respectivos Caracterees
 
 ## HTML - acentos
 
-| Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
+| Caractere   | Código       |           | Caractere   | Código       |           | Caractere   | Código       |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 | &Aacute;  | ```&Aacute;``` |           | &Iacute;  | ``` &Iacute;```|           | &Ugrave;  | ``` &Ugrave;```|
 | &aacute;  | ```&aacute;``` |           | &iacute;  | ``` &iacute;```|           | &ugrave;  | ``` &ugrave;```|
@@ -40,7 +40,7 @@
 
 ## HTML - simbolos
 
-| Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
+| Caractere   | Código         |           | Caractere   | Código         |           | Caractere   | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 | &nbsp;    | ```&nbsp;```   |           |  &copy;   | ```&copy;```   |           |  &reg;    | ```&reg;```    |
 | &lt;      | ```&lt;```     |           |  &gt;     | ```&gt;```     |           |  &amp;    | ```&amp;```    |
@@ -51,9 +51,15 @@
 | &clubs;   | ```&clubs;```  |           |  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;``` |
 | &spades;  |  ```&spades;```|
 
-## Javascript
+## HTML - operadores matemáticos e lógicos
+| Caractere   | Código         |           | Caractere   | Código         |           | Caractere   | Código         |
+| :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
+| &ne;      | ```&ne;```     |           |  &asymp;  | ```&asymp;```  |           |  &cong;    | ```&cong;```    |
+| &ne;      | ```&ne;```   |           |  &asymp;   | ```&asymp;```   |           |  &cong;    | ```&cong;```    |
 
-| Caráter   | Código         |           | Caráter   | Código         |           | Caráter   | Código         |
+## Javascript - acentos
+
+| Caractere   | Código         |           | Caractere   | Código         |           | Caractere   | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 |     á     | ```\u00e1```   |           |     í     | ``` \u00ed```  |           |     Ö     | ``` \u00d6```  |
 |     à     | ```\u00e0```   |           |     ì     | ``` \u00ec```  |           |     ú     | ``` \u00fa ``` |
