@@ -38,8 +38,6 @@ Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus
 |     Ð     | ```&ETH;```    |           |     Û     | ``` &Ucirc;``` |
 |     ð     | ```&eth;```    |           |     û     | ``` &ucirc;``` |
 
-### Exemplos de utilização
-
 
 ## Javascript
 
