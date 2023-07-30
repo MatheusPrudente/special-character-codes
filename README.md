@@ -10,7 +10,7 @@
 
 ## HTML - acentos
 
-| Caractere   | Código       |           | Caractere   | Código       |           | Caractere   | Código       |
+| Caractere |   Código       |           | Caractere | Código         |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 | &Aacute;  | ```&Aacute;``` |           | &Iacute;  | ``` &Iacute;```|           | &Ugrave;  | ``` &Ugrave;```|
 | &aacute;  | ```&aacute;``` |           | &iacute;  | ``` &iacute;```|           | &ugrave;  | ``` &ugrave;```|
@@ -40,7 +40,7 @@
 
 ## HTML - simbolos
 
-| Caractere   | Código         |           | Caractere   | Código         |           | Caractere   | Código         |
+| Caractere   | Código       |           | Caractere | Código         |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 | &nbsp;    | ```&nbsp;```   |           |  &copy;   | ```&copy;```   |           |  &reg;    | ```&reg;```    |
 | &lt;      | ```&lt;```     |           |  &gt;     | ```&gt;```     |           |  &amp;    | ```&amp;```    |
@@ -53,29 +53,32 @@
 
 ## HTML - operadores matemáticos e lógicos
 
-| Caractere   | Código         |           | Caractere   | Código     |           | Caractere | Código         |
+| Caractere   | Código       |           | Caractere | Código         |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
-| &ne;      | ```&ne;```     |           |  &asymp;  | ```&asymp;```  |           |  &cong;    | ```&cong;```    |
-| &prop;      | ```&prop;```   |           |  &equiv;   | ```&equiv;```   |           |  &gt;    | ```&gt;```    |
-| &lt;      | ```&lt;```   |           |  &le;   | ```&le;```   |           |  &ge;    | ```&ge;```    |
-| &plusmn;      | ```&plusmn;```   |           |  &minus;   | ```&minus;```   |           |  &times;    | ```&times;```    |
-| &divide;      | ```&divide;```   |           |  &lowast;   | ```&lowast;```   |           |  &frasl;    | ```&frasl;```    |
-| &permil;      | ```&permil;```   |           |  &int;   | ```&int;```   |           |  &sum;    | ```&sum;```    |
-| &prod;      | ```&prod;```   |           |  &micro;   | ```&micro;```   |           |  &radic;    | ```&radic;```    |
-| &infin;      | ```&infin;```   |           |  &ang;   | ```&ang;```   |           |  &perp;    | ```&perp;```    |
-| &prime;      | ```&prime;```   |           |  &Prime;   | ```&Prime;```   |           |  &deg;    | ```&deg;```    |
-| &there4;      | ```&there4;```   |           |  &sdot;   | ```&sdot;```   |           |  &middot;    | ```&middot;```    |
-| &part;      | ```&part;```   |           |  &image;   | ```&image;```   |           |  &alefsym;    | ```&alefsym;```    |
-| &real;      | ```&real;```   |           |  &nabla;   | ```&nabla;```   |           |  &oplus;    | ```&oplus;```    |
-| &otimes;      | ```&otimes;```   |           |  &otimes;   | ```&otimes;```   |           |  &Oslash;    | ```&Oslash;```    |
-| &isin;      | ```&isin;```   |           |  &notin;   | ```&notin;```   |           |  &cap;    | ```&cap;```    |
-| &cup;      | ```&cup;```   |           |  &sup;   | ```&sup;```   |           |  &sup;    | ```&sup;```    |
-| &sube;      | ```&sube;```   |           |  &supe;   | ```&supe;```   |           |  &exist;    | ```&exist;```    |
-| &forall;      | ```&forall;```   |           |  &empty;   | ```&empty;```   |           |  &not;    | ```&not;```    |
+| &ne;      | ```&ne;```     |           |  &asymp;  | ```&asymp;```  |           |  &cong;   | ```&cong;```   |
+| &prop;    | ```&prop;```   |           |  &equiv;  | ```&equiv;```  |           |  &gt;     | ```&gt;```     |
+| &lt;      | ```&lt;```     |           |  &le;     | ```&le;```     |           |  &ge;     | ```&ge;```     |
+| &plusmn;  | ```&plusmn;``` |           |  &minus;  | ```&minus;```  |           |  &times;  | ```&times;```  |
+| &divide;  | ```&divide;``` |           |  &lowast; | ```&lowast;``` |           |  &frasl;  | ```&frasl;```  |
+| &permil;  | ```&permil;``` |           |  &int;    | ```&int;```    |           |  &sum;    | ```&sum;```    |
+| &prod;    | ```&prod;```   |           |  &micro;  | ```&micro;```  |           |  &radic;  | ```&radic;```  |
+| &infin;   | ```&infin;```  |           |  &ang;    | ```&ang;```    |           |  &perp;   | ```&perp;```   |
+| &prime;   | ```&prime;```  |           |  &Prime;  | ```&Prime;```  |           |  &deg;    | ```&deg;```    |
+| &there4;  | ```&there4;``` |           |  &sdot;   | ```&sdot;```   |           |  &middot; | ```&middot;``` |
+| &part;    | ```&part;```   |           |  &image;  | ```&image;```  |           |  &alefsym;| ```&alefsym;```|
+| &real;    | ```&real;```   |           |  &nabla;  | ```&nabla;```  |           |  &oplus;  | ```&oplus;```  |
+| &otimes;  | ```&otimes;``` |           |  &otimes; | ```&otimes;``` |           |  &Oslash; | ```&Oslash;``` |
+| &isin;    | ```&isin;```   |           |  &notin;  | ```&notin;```  |           |  &cap;    | ```&cap;```    |
+| &cup;     | ```&cup;```    |           |  &sup;    | ```&sup;```    |           |  &sup;    | ```&sup;```    |
+| &sube;    | ```&sube;```   |           |  &supe;   | ```&supe;```   |           |  &exist;  | ```&exist;```  |
+| &forall;  | ```&forall;``` |           |  &empty;  | ```&empty;```  |           |  &not;    | ```&not;```    |
+| &and;     | ```&and;```    |           |  &or;     | ```&or;```     |           |  &loz;    | ```&loz;```    |
+| &crarr;   | ```&crarr;```  |           |  &lceil;  | ```&lceil;```  |           |  &rceil;  | ```&rceil;```  |
+| &lfloor;  | ```&lfloor;``` |
 
 ## Javascript - acentos
 
-| Caractere   | Código         |           | Caractere   | Código         |           | Caractere   | Código         |
+| Caractere | Código         |           | Caractere | Código         |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 |     á     | ```\u00e1```   |           |     í     | ``` \u00ed```  |           |     Ö     | ``` \u00d6```  |
 |     à     | ```\u00e0```   |           |     ì     | ``` \u00ec```  |           |     ú     | ``` \u00fa ``` |
