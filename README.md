@@ -48,7 +48,8 @@
 | &pound;   | ```&pound;```  |           |  &yen;    | ```&yen;```    |           |  &euro;   | ```&euro;```   |
 | &trade;   | ```&trade;```  |           |  &larr;   | ```&larr;```   |           |  &uarr;   | ```&uarr;```   |
 | &rarr;    | ```&rarr;```   |           |  &darr;   | ```&darr;```   |           |  &uarr;   | ```&spades;``` |
-| &clubs;   | ```&clubs;```  |           |  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;```  |
+| &clubs;   | ```&clubs;```  |           |  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;``` |
+| &spades;  |  ```&spades;```|
 
 ## Javascript
 
