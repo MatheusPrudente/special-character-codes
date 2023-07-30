@@ -52,10 +52,17 @@
 | &spades;  |  ```&spades;```|
 
 ## HTML - operadores matemáticos e lógicos
-| Caractere   | Código         |           | Caractere   | Código         |           | Caractere   | Código         |
+
+| Caractere   | Código         |           | Caractere   | Código     |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
 | &ne;      | ```&ne;```     |           |  &asymp;  | ```&asymp;```  |           |  &cong;    | ```&cong;```    |
-| &ne;      | ```&ne;```   |           |  &asymp;   | ```&asymp;```   |           |  &cong;    | ```&cong;```    |
+| &prop;      | ```&prop;```   |           |  &equiv;   | ```&equiv;```   |           |  &gt;    | ```&gt;```    |
+| &lt;      | ```&lt;```   |           |  &le;   | ```&le;```   |           |  &ge;    | ```&ge;```    |
+| &plusmn;      | ```&plusmn;```   |           |  &minus;   | ```&minus;```   |           |  &times;    | ```&times;```    |
+| &divide;      | ```&divide;```   |           |  &lowast;   | ```&lowast;```   |           |  &frasl;    | ```&frasl;```    |
+| &permil;      | ```&permil;```   |           |  &int;   | ```&int;```   |           |  &sum;    | ```&sum;```    |
+| &prod;      | ```&prod;```   |           |  &micro;   | ```&micro;```   |           |  &radic;    | ```&radic;```    |
+| &infin;      | ```&infin;```   |           |  &ang;   | ```&ang;```   |           |  &perp;    | ```&perp;```    |
 
 ## Javascript - acentos
 
