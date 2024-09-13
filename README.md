@@ -58,7 +58,7 @@
 | &sect;            | ```&sect;```            || &para;            | ```&para;```            || &harr;            | ```&harr;```            |
 | &crarr;           | ```&crarr;```           || &lArr;            | ```&lArr;```            || &rArr;            | ```&rArr;```            |
 | &loz;             | ```&loz;```             || &cir;             | ```&cir;```             || &squf;            | ```&squf;```            |
-| &squ;             | ```&squ;```             |
+| &squ;             | ```&squ;```             || &permil;             | ```&permil;```             || &Dagger;            | ```&Dagger;```            |
 
 ## HTML - letras gregas
 
