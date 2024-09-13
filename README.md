@@ -46,16 +46,24 @@
 | &lt;      | ```&lt;```     |           |  &gt;     | ```&gt;```     |           |  &amp;    | ```&amp;```    |
 | &apos;    | ```&apos;```   |           |  &quot;   | ```&quot;```   |           |  &cent;   | ```&cent;```   |
 | &pound;   | ```&pound;```  |           |  &yen;    | ```&yen;```    |           |  &euro;   | ```&euro;```   |
+| &#8369;           | ```&#8369;```           | | &#8377;           | ```&#8377;```           | | &#8361;           | ```&#8361;```           |
 | &trade;   | ```&trade;```  |           |  &larr;   | ```&larr;```   |           |  &uarr;   | ```&uarr;```   |
-| &rarr;    | ```&rarr;```   |           |  &darr;   | ```&darr;```   |           |  &uarr;   | ```&spades;``` |
-| &clubs;   | ```&clubs;```  |           |  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;``` |
-| &spades;  |  ```&spades;```|
+| &rarr;    | ```&rarr;```   |           |  &darr;   | ```&darr;```   |            | &clubs;   | ```&clubs;```  |
+|  &hearts; | ```&hearts;``` |           |  &diams;   | ```&diams;``` |            | &plusmn;      | `&plusmn;`        |
+| &spades;  |  ```&spades;```|           | &plusmn;          |```&plusmn; ```|    | &times;           |```&times;```           |
+| &divide;          |```&divide;```|     | &radic;           |  ```&radic;```           |  | &infin;           |```&infin;```           |
+| &asymp;           | ```&asymp;```           || &ne;              | ```&ne;```              || &le;              | ```&le;```              |
+| &ge;              | ```&ge;```              || &reg;             | ```&reg;```             || &trade;           | ```&trade;```           |
+| &sect;            | ```&sect;```            || &para;            | ```&para;```            || &harr;            | ```&harr;```            |
+| &crarr;           | ```&crarr;```           || &lArr;            | ```&lArr;```            || &rArr;            | ```&rArr;```            |
+| &loz;             | ```&loz;```             || &cir;             | ```&cir;```             || &squf;            | ```&squf;```            |
+| &squ;             | ```&squ;```             |
 
 ## HTML - letras gregas
 
 | Caractere   | Código       |           | Caractere | Código         |           | Caractere | Código         |
 | :-------- | :--------------|:----------| :-------- | :--------------|:----------| :-------- | :--------------|
-| &ne;      | ```&alpha;```  |           |  &Alpha;  | ```&Alpha;```  |           |  &beta;   | ```&beta;```   |
+| &alpha;   | ```&alpha;```  |           |  &Alpha;  | ```&Alpha;```  |           |  &beta;   | ```&beta;```   |
 | &Beta;    | ```&Beta;```   |           |  &gamma;  | ```&gamma;```  |           |  &Gamma;  | ```&Gamma;```  |
 | &delta;   | ```&delta;```  |           |  &Delta;  | ```&Delta;```  |           | &epsilon; | ```&epsilon;```|
 | &Epsilon; | ```&Epsilon;```|           |  &zeta;   | ```&zeta;```   |           | &Zeta;    | ```&Zeta;```   |
