@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/issues/MatheusPrudente/special-character-codes"/>
 </div>
 
-> Tabela de caracteres UTF-8 especiais no HTML e JS que são substituidos por seus respectivos Caracterees
+> Tabela de caracteres especiais UTF-8 em HTML e JavaScript, com suas substituições correspondentes.
 
 ## HTML - acentos
 
